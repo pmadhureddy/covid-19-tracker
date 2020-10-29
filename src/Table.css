@@ -3,6 +3,7 @@
   overflow: scroll;
   height: 400px;
   color: #6a5d5d;
+  background-color: #33FFE6;
 }
 
 ::-webkit-scrollbar {
@@ -18,5 +19,7 @@
   padding: 0.5rem;
 }
 .table tr:nth-of-type(odd) {
-  background-color: #f3f2f8;
+  background-color: #B8FF33;
 }
+
+
